@@ -3,7 +3,7 @@
 #include "plu_min.h"
 
 int main(void) {
-	int a = 5;
+	int a = 6;
 	int b = 3;
 
 	printf("%d + %d = %d\n", a, b, plu(a, b));
